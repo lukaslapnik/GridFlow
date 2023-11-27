@@ -1,3 +1,3 @@
 # gridflow
 
-Visualisation of electric power generation, demand and border flows for european countries. Work in progress (job downtime side quest). Will be updated occasionally.
+Grid power flow modelling using machine learning algorithms based on historical data and grid control system input. Kind of a job downtime side quest. Will be updated sometimes.
